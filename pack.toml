@@ -1,0 +1,13 @@
+name = "Realchill"
+author = "ThatDraenGuy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60c6b9b8fbfc7078e957b87b4c0d5ce2d2f883f5aa938748dc822148f1e0850d"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"

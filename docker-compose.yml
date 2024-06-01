@@ -1,0 +1,26 @@
+# Test server docker
+services:
+    nochill-test:
+        image: itzg/minecraft-server
+        container_name: nochill-test
+        tty: true
+        stdin_open: true
+        ports:
+            - '25565:25565'
+            - '25566:25566'
+            - '25567:25567'
+        restart: unless-stopped
+        environment:
+            EULA: 'TRUE'
+            MAX_MEMORY: 8G
+            TYPE: FORGE
+            VERSION: '1.20.1'
+            FORGE_VERSION: '47.2.23'
+            PACKWIZ_URL: '/modpack/pack.toml'
+            FORCE_REDOWNLOAD: 'true'
+
+            OPS: |
+                ThatDraenGuy
+        volumes:
+            - ./server-data:/data
+            - .:/modpack
