@@ -1,0 +1,13 @@
+name = "LootBeams Fabric Updated"
+filename = "lootbeams-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WfqS5LUm/versions/ud9Tn5wm/lootbeams-1.0.3.jar"
+hash-format = "sha1"
+hash = "4798756a0e63ec1527ce66679e84ee626315c260"
+
+[update]
+[update.modrinth]
+mod-id = "WfqS5LUm"
+version = "ud9Tn5wm"

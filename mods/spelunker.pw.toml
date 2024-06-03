@@ -1,0 +1,13 @@
+name = "Spelunker"
+filename = "spelunker-1.5.3-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hwl9Rw2v/versions/Do1jWIaF/spelunker-1.5.3-mc1.20.jar"
+hash-format = "sha1"
+hash = "3f0020c212812a8e2c913d95df192a408983c126"
+
+[update]
+[update.modrinth]
+mod-id = "hwl9Rw2v"
+version = "Do1jWIaF"

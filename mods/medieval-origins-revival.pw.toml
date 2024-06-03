@@ -1,0 +1,13 @@
+name = "Medieval Origins Revival"
+filename = "medievalorigins-6.3.8+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3FJ8AhW0/versions/16xfLaoG/medievalorigins-6.3.8%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "3a13eaf7ecb4aa0dd84b43f89a305d077281fe44"
+
+[update]
+[update.modrinth]
+mod-id = "3FJ8AhW0"
+version = "16xfLaoG"

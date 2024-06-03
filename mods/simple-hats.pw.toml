@@ -1,0 +1,13 @@
+name = "Simple Hats"
+filename = "simplehats-fabric-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iSkQCp6b/versions/fvLjk2ku/simplehats-fabric-1.20.1-0.3.0.jar"
+hash-format = "sha1"
+hash = "dcce40d818af847bfdc924f74efea6fe33050c88"
+
+[update]
+[update.modrinth]
+mod-id = "iSkQCp6b"
+version = "fvLjk2ku"
