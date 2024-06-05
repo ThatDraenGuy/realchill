@@ -1,0 +1,13 @@
+name = "Create: Metalwork"
+filename = "create-metalwork-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q5i9RTSJ/versions/k51NOCqD/create-metalwork-1.0.2-fabric.jar"
+hash-format = "sha1"
+hash = "7f98ff6de0d78dfea1e5063dc9c2b96897c17db7"
+
+[update]
+[update.modrinth]
+mod-id = "q5i9RTSJ"
+version = "k51NOCqD"

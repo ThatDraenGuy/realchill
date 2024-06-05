@@ -88,6 +88,7 @@ to make editing this file much easier.
             old: {
                 Name: 'minecraft:end_portal_frame',
                 Properties: {
+                    eye: true,
                     facing: 'west',
                 },
             },
@@ -103,6 +104,7 @@ to make editing this file much easier.
             old: {
                 Name: 'minecraft:end_portal_frame',
                 Properties: {
+                    eye: true,
                     facing: 'east',
                 },
             },
@@ -118,6 +120,7 @@ to make editing this file much easier.
             old: {
                 Name: 'minecraft:end_portal_frame',
                 Properties: {
+                    eye: true,
                     facing: 'north',
                 },
             },
@@ -133,6 +136,71 @@ to make editing this file much easier.
             old: {
                 Name: 'minecraft:end_portal_frame',
                 Properties: {
+                    eye: true,
+                    facing: 'south',
+                },
+            },
+        },
+        {
+            new: {
+                Name: 'endrem:ancient_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'west',
+                },
+            },
+            old: {
+                Name: 'minecraft:end_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'west',
+                },
+            },
+        },
+        {
+            new: {
+                Name: 'endrem:ancient_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'east',
+                },
+            },
+            old: {
+                Name: 'minecraft:end_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'east',
+                },
+            },
+        },
+        {
+            new: {
+                Name: 'endrem:ancient_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'north',
+                },
+            },
+            old: {
+                Name: 'minecraft:end_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'north',
+                },
+            },
+        },
+        {
+            new: {
+                Name: 'endrem:ancient_portal_frame',
+                Properties: {
+                    eye: false,
+                    facing: 'south',
+                },
+            },
+            old: {
+                Name: 'minecraft:end_portal_frame',
+                Properties: {
+                    eye: false,
                     facing: 'south',
                 },
             },
@@ -145,5 +213,7 @@ to make editing this file much easier.
 	   		"minecraft:diamond_block": "minecraft:emerald_block"
 	   	}
 	*/
-    swapper: {},
+    swapper: {
+        'minecraft:end_portal_frame': 'endrem:ancient_portal_frame',
+    },
 }
