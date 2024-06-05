@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
+hash = "bbbc1c9f1f40a89cbc3b017eba4694471b8eef5cdcb046dfc6676e5d60881bd0"
 metafile = true
 
 [[files]]
@@ -391,17 +391,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
+hash = "e9c1efd327adb9305b8ae56daf65cfee0d43b05b933b6c98518c53005b835fbb"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-beacons-reforged.pw.toml"
-hash = "c5fd1ca46097e8dd8afa800f5b6d29a805d9d06067850277319aee3c4198800e"
+hash = "3b7df4fe897cc0bb56455d82c3761bb2fc1f6e5024e20a748d0feba921a74913"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "5fcdee938b1aadf662d5772eee86d1a5074c6a5320f96f2127799255e517ec3e"
+hash = "904c75c7ff7706155427ee894e1224c77431e56e0ca7f71c92a9c4f49f97bd26"
 metafile = true
 
 [[files]]
@@ -411,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
+hash = "059bc53cff9f4bc40ebef06687cdd6bb34eac667d8cb40f527540f1fd70ac262"
 metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "1901db0c49e18c24284720426ccedc68f71ec600b13bbc1f42eb964fede1b0ae"
+hash = "0a6ba7b9e3d8d463ccb2dfcb4267c855957282c867651105f01661cc8de3bb12"
 metafile = true
 
 [[files]]
