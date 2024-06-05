@@ -1,6 +1,6 @@
 name = "Just Enough Effect Descriptions (JEED)"
 filename = "jeed-1.20-2.1.12-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EO27GKs1/versions/ZYHetfJS/jeed-1.20-2.1.12-fabric.jar"

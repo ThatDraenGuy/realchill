@@ -1,6 +1,6 @@
 name = "Just Enough Beacons Reforged"
 filename = "JustEnoughBeacons-Fabric-1.20.4-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fgqpjvEk/versions/fyBAKKCq/JustEnoughBeacons-Fabric-1.20.4-1.2.0.jar"
