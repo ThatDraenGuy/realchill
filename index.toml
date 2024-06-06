@@ -5,6 +5,22 @@ file = "config/blockswap/block_swap.json5"
 hash = "1887096afdb52a1177f9572ea80ee9f23a134e877e5953cda67fc71f54cebe31"
 
 [[files]]
+file = "global_packs/required_resources/contentpack/assets/minecraft/texts/splashes.txt"
+hash = "7b94c3ac961bef9e251bb8de485aab94c900381928c58c6343fe3e3aff1a92f9"
+
+[[files]]
+file = "global_packs/required_resources/contentpack/assets/minecraft/textures/environment/sun.png"
+hash = "7c72190721f7cbda21e633379834005fc4f9381f13ca16cd8daf5154f40be872"
+
+[[files]]
+file = "global_packs/required_resources/contentpack/assets/minecraft/textures/environment/sun.png~"
+hash = "d430d395cbfc2941fac917b658d4d348c107b8cda0d11ccc3684338ff9cd8bed"
+
+[[files]]
+file = "global_packs/required_resources/contentpack/pack.mcmeta"
+hash = "0e7ab2917d57d3777aa31d733547c06111391213214327b89c60cb0837acb8e2"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
@@ -332,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "4c4ecbb592afa14eb622655aa29b3064152ea458fd941fb7c9004bd10863f0dc"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
 
 [[files]]
