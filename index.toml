@@ -581,6 +581,11 @@ hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-modpack-version-checker.pw.toml"
+hash = "fbf88aca2b9f4f2d8cf5ae88a5426247ab69896f0a94463b126b2c301eb07713"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
