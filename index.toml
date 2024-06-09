@@ -315,6 +315,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
@@ -587,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/nyfs-modpack-version-checker.pw.toml"
 hash = "fbf88aca2b9f4f2d8cf5ae88a5426247ab69896f0a94463b126b2c301eb07713"
-metafile = true
-
-[[files]]
-file = "mods/openmcskins.pw.toml"
-hash = "da32839f013c42808cffe57cd6f4872a1729fe84288a0acc5d6beaf1be4c6390"
 metafile = true
 
 [[files]]
