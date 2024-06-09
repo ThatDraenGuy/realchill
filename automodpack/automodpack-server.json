@@ -5,6 +5,7 @@
   "syncedFiles": [
     "/mods/*.jar",
     "/config/*",
+    "!/config/blockswap/*",
     "/global_packs/*",
     "/shaderpacks/*"
   ],
