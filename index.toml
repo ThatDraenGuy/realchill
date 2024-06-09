@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "automodpack/automodpack-server.json"
-hash = "eb3c39cd9f9b03eedb44522f0c8b6f5c113124e3fade43f14020926f9d6f2051"
+hash = "fe353ee3d0de7c390892e8b20bca46244c820c7939ad5ac5d661ea82b5e03aa0"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"

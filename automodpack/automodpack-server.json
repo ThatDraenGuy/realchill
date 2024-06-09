@@ -13,12 +13,12 @@
     "/config/*"
   ],
   "requireAutoModpackOnClient": true,
-  "autoExcludeServerSideMods": true,
-  "hostModpackOnMinecraftPort": true,
+  "autoExcludeServerSideMods": false,
+  "hostModpackOnMinecraftPort": false,
   "hostIp": "",
   "hostLocalIp": "",
   "updateIpsOnEveryStart": false,
-  "hostPort": -1,
+  "hostPort": 25566,
   "reverseProxy": false,
   "selfUpdater": false,
   "acceptedLoaders": [
