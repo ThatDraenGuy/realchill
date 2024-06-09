@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "automodpack/automodpack-server.json"
-hash = "fe03be62be39be479263d06af955d16b9b3c7a91c9779ad35617a5ceb3c0d997"
-
-[[files]]
 file = "config/blockswap/block_swap.json5"
 hash = "1887096afdb52a1177f9572ea80ee9f23a134e877e5953cda67fc71f54cebe31"
 
@@ -61,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/automobility.pw.toml"
 hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
-metafile = true
-
-[[files]]
-file = "mods/automodpack.pw.toml"
-hash = "c6fa240b08f4bd53c1a6514d872c5125f35832adcbe122cdd67a51d838b3bc61"
 metafile = true
 
 [[files]]
