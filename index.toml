@@ -5,8 +5,20 @@ file = "config/blockswap/block_swap.json5"
 hash = "1887096afdb52a1177f9572ea80ee9f23a134e877e5953cda67fc71f54cebe31"
 
 [[files]]
-file = "config/customwindowtitle-client.toml"
-hash = "ca914f84bd021cd41f8aadc896e088c9fdf0ef7141fc26ce7773cbcce2f5656b"
+file = "config/fancymenu/assets/icon.icns"
+hash = "baff4bb4b3d6eff130c3dac760a4ee79cbe12a9864afd39f8c6fda5ab191615d"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+hash = "497cffc60e793e4c950be43c8ad341b6f36b5ade89a8de0f1a7d880af717a7d7"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+hash = "81daa39a39e550b21cd011240a132995d39cd47c6367382a56c06ed91fb52f50"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "cd4cba6bae6dd3a4e1be38093d217e8922f5cc3349bbf0a2b673240dd5d0861b"
 
 [[files]]
 file = "config/nmpvc-common.toml"
@@ -246,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-villagers-plus-compat.pw.toml"
 hash = "5b1b64ddd9e3a41c72bd1db07ab69cdaa058d210a13218cc97b2d7c8b5ed1af6"
-metafile = true
-
-[[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "23741a1d4ab09af28cc04a035f30d0e9b0f26577697e0faaf797f2eed2833451"
 metafile = true
 
 [[files]]
