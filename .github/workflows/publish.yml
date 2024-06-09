@@ -36,6 +36,6 @@ jobs:
               uses: softprops/action-gh-release@v1
               with:
                   files: |
-                      distrib/modpack.zip
+                      distrib/${{ env.MODPACK_NAME }}-${{ github.ref_name }}.zip
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
