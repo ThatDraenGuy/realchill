@@ -1,0 +1,44 @@
+name: publish
+
+on:
+    push:
+        tags:
+            - '*'
+        branches: ['main']
+
+env:
+    MODPACK_NAME: Realchill
+
+jobs:
+    publish:
+        name: publish modpack
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Install java
+              uses: actions/setup-java@v4
+              with:
+                  distribution: 'zulu'
+                  java-version: '17'
+
+            - name: Prepare modpack build env
+              run: |
+                  mkdir distrib
+                  cd distrib
+                  curl -L --output install.jar  "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar"
+
+            - name: Build modpack
+              run: |
+                  java -jar install.jar --no-gui ../pack.toml
+                  zip -r ${{ env.MODPACK_NAME }}-${{ github.ref_name }}.zip *
+
+            - name: Release with Notes
+              uses: softprops/action-gh-release@v1
+              with:
+                  files: |
+                      distrib/modpack.zip
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
