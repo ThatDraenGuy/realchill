@@ -5,6 +5,10 @@ file = "config/blockswap/block_swap.json5"
 hash = "1887096afdb52a1177f9572ea80ee9f23a134e877e5953cda67fc71f54cebe31"
 
 [[files]]
+file = "config/nmpvc-common.toml"
+hash = "b61b56d97d330d7cdf258685be24099ea797d85ecd29d82c43bb23ccdd96f004"
+
+[[files]]
 file = "global_packs/required_resources/contentpack/assets/minecraft/texts/splashes.txt"
 hash = "7b94c3ac961bef9e251bb8de485aab94c900381928c58c6343fe3e3aff1a92f9"
 
@@ -586,6 +590,11 @@ hash = "fbf88aca2b9f4f2d8cf5ae88a5426247ab69896f0a94463b126b2c301eb07713"
 metafile = true
 
 [[files]]
+file = "mods/openmcskins.pw.toml"
+hash = "2652a58f42c80f651fccdaa47ba79a7715a7286abdc4f9add65b015231e15780"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
@@ -778,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]

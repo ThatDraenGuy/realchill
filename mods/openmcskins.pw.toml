@@ -1,0 +1,13 @@
+name = "OpenMCSkins"
+filename = "openmcskins-1.19.4-2.0.0b4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8eIXMRR/versions/CsPwh4SC/openmcskins-1.19.4-2.0.0b4.jar"
+hash-format = "sha1"
+hash = "5c2868f233ecb40543ba736797c3c224d1ee345b"
+
+[update]
+[update.modrinth]
+mod-id = "c8eIXMRR"
+version = "CsPwh4SC"

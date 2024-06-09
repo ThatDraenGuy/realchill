@@ -1,5 +1,6 @@
 .prettierrc
 .vscode/
 .gitignore
+.github/
 docker-compose.yml
 server-data/
