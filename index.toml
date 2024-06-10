@@ -41,6 +41,11 @@ file = "global_packs/required_resources/contentpack/pack.mcmeta"
 hash = "0e7ab2917d57d3777aa31d733547c06111391213214327b89c60cb0837acb8e2"
 
 [[files]]
+file = "mods/2032-world-height.pw.toml"
+hash = "ef0a53843e48a63ea7a9ce77216cf66e7eafe0ea0a91a16ed39304118f5c65d4"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "9c5d0f1adf081043b74cd306ba4dee43182c837c06fd35619cf676ee838e44fd"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "44e55412afe359a1a0f7bfd33cbb5eb87bf6283f053bbbd2d1770e02e9b83c86"
 metafile = true
 
 [[files]]
@@ -271,6 +281,11 @@ hash = "577bb19456260cbf7c6dcf07be2a20e2171c6398917c984cc0dbe2bf1083059c"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "f7c1de8660dd549c1c66e6105f75d4c336c0e700da5080cde2dd5b877c38bdd5"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
 metafile = true
@@ -481,6 +496,11 @@ hash = "4635fd04883c36cc8e0fdbd7ccca40c9613daeb777c3fc9164c3e15c39dfb690"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "601d667f63f431085401af78127d81dacf44dcbf789abcb10eb6090474a89e58"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -538,11 +558,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "7356c4b80f79ea0991f67456b265204c45c4897f4acc5858ce40a3028ade12fd"
-metafile = true
-
-[[files]]
-file = "mods/more-geodes.pw.toml"
-hash = "38d8eb59aba46ade6700b2c4cbc20076ce59689fb92657009648ba479016144e"
 metafile = true
 
 [[files]]
@@ -661,11 +676,6 @@ hash = "cdec39459c322ad4dec9736f4819a0b59a4f660ceaa8e6dc1d3b79b9b9518531"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "2ea830cbc4745e732f3161256932cd5c4b6e8e2202d9370b1649718a522435e2"
-metafile = true
-
-[[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "f7ebf6c7b759462f512dde1bad04152135e050811452082d5b709199cb0f565a"
 metafile = true
@@ -766,8 +776,18 @@ hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
 metafile = true
 
 [[files]]
