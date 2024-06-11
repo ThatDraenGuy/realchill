@@ -5,8 +5,20 @@ file = "config/blockswap/block_swap.json5"
 hash = "1887096afdb52a1177f9572ea80ee9f23a134e877e5953cda67fc71f54cebe31"
 
 [[files]]
+file = "config/fancymenu/assets/dance.gif"
+hash = "3ac7e20674c887d7f89e8b378abe372d861b1138d565df58aa2fb7a3398eecd3"
+
+[[files]]
+file = "config/fancymenu/assets/data.json"
+hash = "9f73b41b5940e6a897b66046d454224160779a64fb60f5c81d127990392cc233"
+
+[[files]]
 file = "config/fancymenu/assets/icon.icns"
 hash = "baff4bb4b3d6eff130c3dac760a4ee79cbe12a9864afd39f8c6fda5ab191615d"
+
+[[files]]
+file = "config/fancymenu/assets/icon1024.png"
+hash = "70d7cabd30843c41211307f180cd1a9f7ba58b6fcac6881d768ad8832fc71a50"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
@@ -17,8 +29,36 @@ file = "config/fancymenu/assets/icon32.png"
 hash = "81daa39a39e550b21cd011240a132995d39cd47c6367382a56c06ed91fb52f50"
 
 [[files]]
+file = "config/fancymenu/assets/loading.ogg"
+hash = "3d04847663b935d0b688764178ed4c51b2a5b7a160358bb95a71d5d4c57bf727"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "68c0394e25ababcafb6463e2bc26a3fe1ad0e15c6c217ddafe13b39e87bdb49f"
+
+[[files]]
+file = "config/fancymenu/assets/shipdance.gif"
+hash = "b9c1925e085d5feda221940e6785a909707f7a0e09c3c3faa58213a67801a49f"
+
+[[files]]
+file = "config/fancymenu/assets/victory.ogg"
+hash = "7a81a857c3ef8e16bb566ebcafb1179bfc68d9fa6fa7afce64d3d1d9217ddbd5"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "9ce0ce510432b54825a03bcbc1a2bd93d484a94ddd05d60db08f54ec6d048a90"
+
+[[files]]
+file = "config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
+hash = "c14a8f331153553b53f083812bf1739c835088cc800a0bfc780b451a9d58f666"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "b0713aff51019942fca19a80c0261069666d13a0ff4157597effd736e0ea4d7c"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "cd4cba6bae6dd3a4e1be38093d217e8922f5cc3349bbf0a2b673240dd5d0861b"
+hash = "e4bab013dbe1c446ccb81bd2372ac4269c898670403d20ff3f83a910d95b2816"
 
 [[files]]
 file = "config/nmpvc-common.toml"
