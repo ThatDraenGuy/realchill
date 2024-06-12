@@ -571,6 +571,11 @@ hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
 
 [[files]]
+file = "mods/mcdw.pw.toml"
+hash = "5a681511df13b30120b0d25197d72188c85bc12b9265593544a862df5edab804"
+metafile = true
+
+[[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "220a44051e9f98a13add51681ec16888234cd3d0e50cc413be855dc293aadc94"
 metafile = true

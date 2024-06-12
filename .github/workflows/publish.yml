@@ -10,8 +10,8 @@ env:
     MODPACK_NAME: Realchill
 
 jobs:
-    publish:
-        name: publish modpack
+    publish-archive:
+        name: publish modpack archive
         runs-on: ubuntu-latest
 
         steps:
@@ -39,3 +39,19 @@ jobs:
                       distrib/${{ env.MODPACK_NAME }}-${{ github.ref_name }}.zip
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    publish-packwiz-files:
+        name: publish packwiz files
+        runs-on: ubuntu-latest
+        environment: packwiz-file-host
+
+        steps:
+            - name: install ssh keys
+              run: |
+                  install -m 600 -D /dev/null ~/.ssh/id_rsa
+                  echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+                  ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
+            - name: connect and pull
+              run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git pull && exit"
+            - name: cleanup
+              run: rm -rf ~/.ssh
