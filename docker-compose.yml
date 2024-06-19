@@ -1,23 +1,25 @@
-# Test server docker
 services:
-    nochill-test:
+    realchill-test:
         image: itzg/minecraft-server
-        container_name: nochill-test
+        container_name: realchill-test
         tty: true
         stdin_open: true
         ports:
             - '25565:25565'
             - '25566:25566'
             - '25567:25567'
+            - '24454:24454/udp'
         restart: unless-stopped
         environment:
             EULA: 'TRUE'
             MAX_MEMORY: 8G
-            TYPE: FORGE
+            TYPE: FABRIC
             VERSION: '1.20.1'
-            FORGE_VERSION: '47.2.23'
+            FORGE_VERSION: '0.15.11'
             PACKWIZ_URL: '/modpack/pack.toml'
             FORCE_REDOWNLOAD: 'true'
+
+            ONLINE_MODE: 'FALSE'
 
             OPS: |
                 ThatDraenGuy
