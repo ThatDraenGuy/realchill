@@ -1,0 +1,8 @@
+name = "discordian"
+filename = "discordian-2.2+1.20+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/mantevian/discordian/releases/download/v2.2/discordian-2.2+1.20+1.20.1.jar"
+hash-format = "sha256"
+hash = "0f6501ec6f76edf7ac16a547cbef41afd8af12a7ef2b7886003e2cfc2f1e53fa"

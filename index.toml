@@ -316,6 +316,11 @@ hash = "d156c65fc4e6ab7efb3cdb5cf6d31798f0fa4f60b1a2f156ece886ffc02ba293"
 metafile = true
 
 [[files]]
+file = "mods/discordian.pw.toml"
+hash = "6eb6036519f1caf2a032f3570cfd5ea70c33db408f626607659cb42c7372b396"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "577bb19456260cbf7c6dcf07be2a20e2171c6398917c984cc0dbe2bf1083059c"
 metafile = true
@@ -851,11 +856,6 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "3eb8c3448af2c73d32728c54a4d3e13ae6107ddf20092e0a345a1ad9527249eb"
-metafile = true
-
-[[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "58aa6f9e8041a3e6c5a5ee79e4fbd42185de5e32434172c3465da394a5eb7b19"
 metafile = true
@@ -868,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "b03d2938d1af92521afc8836f3738c4923734133865c4ecc512bd6967ec26360"
 metafile = true
 
 [[files]]
