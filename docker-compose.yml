@@ -19,7 +19,8 @@ services:
             PACKWIZ_URL: '/modpack/pack.toml'
             FORCE_REDOWNLOAD: 'true'
 
-            ONLINE_MODE: 'FALSE'
+            ONLINE_MODE: 'TRUE'
+            ENABLE_COMMAND_BLOCK: 'TRUE'
 
             OPS: |
                 ThatDraenGuy

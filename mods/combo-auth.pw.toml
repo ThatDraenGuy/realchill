@@ -1,0 +1,13 @@
+name = "combo Auth"
+filename = "combo_auth-1.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eNzhnEbp/versions/AxTzWRRM/combo_auth-1.3.0.jar"
+hash-format = "sha1"
+hash = "a04879076109f4fe75bc369ff5e9d034cd465048"
+
+[update]
+[update.modrinth]
+mod-id = "eNzhnEbp"
+version = "AxTzWRRM"
