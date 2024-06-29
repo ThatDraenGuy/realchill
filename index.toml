@@ -45,6 +45,10 @@ file = "config/fancymenu/assets/victory.ogg"
 hash = "7a81a857c3ef8e16bb566ebcafb1179bfc68d9fa6fa7afce64d3d1d9217ddbd5"
 
 [[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "aa7173ca052340e86ff97e7d78f6d172848098d04c8fd3ad3ff8fbf01ec9ba7a"
+
+[[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
 hash = "9ce0ce510432b54825a03bcbc1a2bd93d484a94ddd05d60db08f54ec6d048a90"
 
