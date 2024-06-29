@@ -1,12 +1,12 @@
 name = "Realchill"
 author = "ThatDraenGuy"
-version = "0.3.0"
+version = "0.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9790b894f86b61b17fb33ab672526d35b48c7e7325bf1422312af1b286dcde01"
+hash = "db93d7d4332d2d9cf9184b6f19685025c84969d0cfd341a453d474fdddf8e1b9"
 
 [versions]
 fabric = "0.15.11"

@@ -10,7 +10,7 @@ hash = "3ac7e20674c887d7f89e8b378abe372d861b1138d565df58aa2fb7a3398eecd3"
 
 [[files]]
 file = "config/fancymenu/assets/data.json"
-hash = "0c048b8a12d247a8b8b27f8ad937431e14ea05884d505fe314a599fe1c9da761"
+hash = "2f1bd8a30f9baccb4c5cfac82cea7e76d7d5be870d480b3f3bac494210b70897"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -66,7 +66,7 @@ hash = "e4bab013dbe1c446ccb81bd2372ac4269c898670403d20ff3f83a910d95b2816"
 
 [[files]]
 file = "config/nmpvc-common.toml"
-hash = "2fb5ef9fb165e400f3888075e6770edef07845452ddce648d690fdd3159fa79c"
+hash = "c6245f64731de634ee4725566d08630c87d7109c4b79a9fa3e9a345bba5e462a"
 
 [[files]]
 file = "global_packs/required_resources/contentpack/assets/minecraft/texts/splashes.txt"
