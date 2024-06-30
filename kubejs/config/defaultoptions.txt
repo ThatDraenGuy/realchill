@@ -1,0 +1,9 @@
+autoJump:false
+key_key.emotecraft.fastchoose:key.keyboard.u
+key_ping-wheel.key.ping-location:key.keyboard.minus
+key_key.cycleLeft:key.keyboard.left.bracket
+key_key.cycleRight:key.keyboard.right.bracket
+key_Swap shoulder:key.keyboard.i
+key_key.origins.primary_active:key.keyboard.z
+key_key.origins.secondary_active:key.keyboard.x
+key_key.smallships.ship_sail:key.keyboard.y
