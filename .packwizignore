@@ -5,3 +5,4 @@
 docker-compose.yml
 server-data/
 README.md
+kubejs/probe/
