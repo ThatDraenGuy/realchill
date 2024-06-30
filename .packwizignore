@@ -4,3 +4,4 @@
 .github/
 docker-compose.yml
 server-data/
+README.md
