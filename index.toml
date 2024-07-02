@@ -69,6 +69,10 @@ file = "config/nmpvc-common.toml"
 hash = "4f04fbd3b0633dd1bfd463bb038291cb2a95ab842720c4ded69a6c32fc32cd33"
 
 [[files]]
+file = "config/yigd.json"
+hash = "c360ef1e40681683561ebccf4fdad27655a178fb9feeddb70eb038b23c78abf4"
+
+[[files]]
 file = "global_packs/required_resources/contentpack/assets/minecraft/texts/splashes.txt"
 hash = "7b94c3ac961bef9e251bb8de485aab94c900381928c58c6343fe3e3aff1a92f9"
 
@@ -107,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/EasyAuth/config.json"
-hash = "822bf2c742971809aa666ed7ca3ba13bdff8c1069bec4c71de4eedd7bb523f90"
+hash = "31e77c61012c633bbf25715e3162c154cc1199f9946d902c7598a21931202fa2"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"

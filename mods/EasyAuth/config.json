@@ -2,7 +2,7 @@
   "main": {
     "allowEntityInteract": false,
     "maxLoginTries": 1,
-    "kickTime": 60,
+    "kickTime": 600,
     "enableGlobalPassword": false,
     "globalPassword": null,
     "tryPortalRescue": true,
