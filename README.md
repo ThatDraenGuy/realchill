@@ -3,7 +3,8 @@
 ## Для тех кто знает что делает
 
 [Архивы со сборкой лежат тут](https://github.com/ThatDraenGuy/realchill/releases)  
-Ссылка на хостинг [packwiz](https://packwiz.infra.link/)-сборки: http://draen.ru/~noah/realchill/
+Ссылка на хостинг [packwiz](https://packwiz.infra.link/)-сборки: http://draen.ru/~noah/realchill/  
+[Подготовленный PrismLauncher-инстанс](http://draen.ru/~noah/realchill/RealChill.zip)
 
 ## Для тех, кто не знает/не уверен
 
@@ -35,8 +36,8 @@
 
 ### Готовый инстанс
 
-Качаем архив инстанса [здесь](http://draen.ru/~noah/realchill/RealChill.zip)
-Заходим в лаунчер, создаём новый инстанс, выбираем Import и выбираем скачанный zip-инстанс. Нажимаем ОК.
+Качаем архив инстанса [здесь](http://draen.ru/~noah/realchill/RealChill.zip)  
+Заходим в Prism-лаунчер, создаём новый инстанс, выбираем Import и выбираем скачанный zip-инстанс. Нажимаем ОК.
 Теперь есть инстанс, при запуске игры он подгрузит сборку
 
 ### Ручная настройка инстанса
