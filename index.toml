@@ -65,6 +65,10 @@ file = "config/fancymenu/options.txt"
 hash = "90ec73bac73f23e02391fa25a16715b13b1772b037169ffb243805d950c6d95a"
 
 [[files]]
+file = "config/image2map.json"
+hash = "8dfda98b5271ac519b696cab27f65f40b381eac7a65477a7f2105fb478b1a834"
+
+[[files]]
 file = "config/nmpvc-common.toml"
 hash = "4f04fbd3b0633dd1bfd463bb038291cb2a95ab842720c4ded69a6c32fc32cd33"
 
