@@ -27,7 +27,7 @@ jobs:
             - name: Prepare packwiz
               run: |
                   mkdir client
-                  mkdir both
+                  mkdir full
                   mkdir server
                   curl -L --output packwiz-installer-bootstrap.jar  "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar"
             - name: Build client
