@@ -13,9 +13,9 @@ services:
         environment:
             EULA: 'TRUE'
             MAX_MEMORY: 8G
-            TYPE: FABRIC
+            TYPE: FORGE
             VERSION: '1.20.1'
-            FORGE_VERSION: '0.15.11'
+            FORGE_VERSION: '47.4.3'
             PACKWIZ_URL: '/modpack/pack.toml'
             FORCE_REDOWNLOAD: 'true'
 

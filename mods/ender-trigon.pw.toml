@@ -1,0 +1,13 @@
+name = "Ender Trigon"
+filename = "endertrigon-1.20.1-1.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bIGwdx6D/versions/pnjBOuvM/endertrigon-1.20.1-1.1-all.jar"
+hash-format = "sha1"
+hash = "bc154e50cadb3e40a53bc89d11a99b0e9a4a0c30"
+
+[update]
+[update.modrinth]
+mod-id = "bIGwdx6D"
+version = "pnjBOuvM"

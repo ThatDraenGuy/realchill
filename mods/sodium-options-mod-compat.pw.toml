@@ -1,0 +1,13 @@
+name = "Sodium Options Mod Compat"
+filename = "sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yg1VT27P/versions/VSq6XYM3/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "797554fd7d20a86fc168d2df83d611ed12185b05"
+
+[update]
+[update.modrinth]
+mod-id = "Yg1VT27P"
+version = "VSq6XYM3"

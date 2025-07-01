@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "global_packs-fabric-1.19.4-1.16.1_fabric.jar"
+filename = "globalpacks-forge-1.20.1-19.3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/9so0FT8s/global_packs-fabric-1.19.4-1.16.1_fabric.jar"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/Kgn0YIHG/globalpacks-forge-1.20.1-19.3.5.jar"
 hash-format = "sha1"
-hash = "927c59d923a7a38837427046d6b3b2feedf26128"
+hash = "3de9fb8ace9994adf14616a43492704023b85870"
 
 [update]
 [update.modrinth]
 mod-id = "NRLPy2mk"
-version = "9so0FT8s"
+version = "Kgn0YIHG"

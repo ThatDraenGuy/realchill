@@ -1,0 +1,13 @@
+name = "End's Delight"
+filename = "ends_delight-2.5.1+forge.1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yHN0njMr/versions/GNLxPpR2/ends_delight-2.5.1%2Bforge.1.20.1.jar"
+hash-format = "sha1"
+hash = "535c442625be4bd26ee637cdf7055c30b79a0b65"
+
+[update]
+[update.modrinth]
+mod-id = "yHN0njMr"
+version = "GNLxPpR2"

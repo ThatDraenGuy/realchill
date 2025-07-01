@@ -1,13 +1,13 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-Fabric-1.20.1-0.3.2.162.jar"
+filename = "BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/MoIoigS0/BetterAdvancements-Fabric-1.20.1-0.3.2.162.jar"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/NS5G3ENg/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar"
 hash-format = "sha1"
-hash = "eba2da34d2b0f842336abd8610e4b5e111c1598d"
+hash = "c1047a1116886365ef5c37879cb250d312f74283"
 
 [update]
 [update.modrinth]
 mod-id = "Q2OqKxDG"
-version = "MoIoigS0"
+version = "NS5G3ENg"

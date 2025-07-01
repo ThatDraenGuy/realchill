@@ -1,13 +1,13 @@
 name = "Small Ships"
-filename = "smallships-fabric-1.20.1-2.0.0-b1.2.jar"
+filename = "smallships-forge-1.20.1-2.0.0-b1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/gfnpAA1f/smallships-fabric-1.20.1-2.0.0-b1.2.jar"
+url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/58DKgNnY/smallships-forge-1.20.1-2.0.0-b1.4.jar"
 hash-format = "sha1"
-hash = "fab3bd34443a88d92eae1253866df192f633feac"
+hash = "9998ddc8a278e0b87ab642d289ae2a1e3dbebef6"
 
 [update]
 [update.modrinth]
 mod-id = "rGWEHQrP"
-version = "gfnpAA1f"
+version = "58DKgNnY"

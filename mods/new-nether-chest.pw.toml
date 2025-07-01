@@ -1,13 +1,13 @@
 name = "Nether Chested"
-filename = "NetherChested-v8.0.3-1.20.1-Fabric.jar"
+filename = "NetherChested-v8.0.4-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/ov250Qvk/NetherChested-v8.0.3-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/pg7wiIfo/NetherChested-v8.0.4-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "38c48d3fc5a2a6e328a22ef447662c3354f83c03"
+hash = "25e30fc421f7efabea7760d2c81b150132633e26"
 
 [update]
 [update.modrinth]
 mod-id = "bHJp2GRg"
-version = "ov250Qvk"
+version = "pg7wiIfo"

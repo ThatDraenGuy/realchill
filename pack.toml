@@ -1,13 +1,13 @@
 name = "Realchill"
 author = "ThatDraenGuy"
-version = "0.4.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "87fd0b4bc03f3f992dc099fa67aa61e17417de28900839795b2ceb38e06352c2"
+hash = "30df63cda86164aaa5847a143c64395d3fe9e587a03c27ebef549987eecb8fda"
 
 [versions]
-fabric = "0.15.11"
+forge = "47.4.3"
 minecraft = "1.20.1"

@@ -24,19 +24,38 @@ jobs:
                   distribution: 'zulu'
                   java-version: '17'
 
-            - name: Build modpack
+            - name: Prepare packwiz
               run: |
-                  mkdir distrib
-                  cd distrib
+                  mkdir client
+                  mkdir both
+                  mkdir server
                   curl -L --output packwiz-installer-bootstrap.jar  "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar"
-                  java -jar packwiz-installer-bootstrap.jar --no-gui ../pack.toml
-                  zip -r ${{ env.MODPACK_NAME }}-${{ github.ref_name }}.zip *
+            - name: Build client
+              run: |
+                  cd client
+                  java -jar ../packwiz-installer-bootstrap.jar --no-gui -s client ../pack.toml
+                  zip -r ${{ env.MODPACK_NAME }}-${{ github.ref_name }}-client.zip *
+                  cd ..
+            - name: Build full
+              run: |
+                  cd full
+                  java -jar ../packwiz-installer-bootstrap.jar --no-gui -s both ../pack.toml
+                  zip -r ${{ env.MODPACK_NAME }}-${{ github.ref_name }}-full.zip *
+                  cd ..
+            - name: Build server
+              run: |
+                  cd server
+                  java -jar ../packwiz-installer-bootstrap.jar --no-gui -s server ../pack.toml
+                  zip -r ${{ env.MODPACK_NAME }}-${{ github.ref_name }}-server.zip *
+                  cd ..
 
             - name: Release with Notes
               uses: softprops/action-gh-release@v1
               with:
                   files: |
-                      distrib/${{ env.MODPACK_NAME }}-${{ github.ref_name }}.zip
+                      client/${{ env.MODPACK_NAME }}-${{ github.ref_name }}-client.zip
+                      full/${{ env.MODPACK_NAME }}-${{ github.ref_name }}-full.zip
+                      server/${{ env.MODPACK_NAME }}-${{ github.ref_name }}-server.zip
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
