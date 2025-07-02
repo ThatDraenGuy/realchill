@@ -1,0 +1,13 @@
+name = "Hamsters"
+filename = "hamsters-forge-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sRzS8pFG/versions/GaWM3lmN/hamsters-forge-1.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "9926bb85531bc5db1e7621de135896e4b928f3e5"
+
+[update]
+[update.modrinth]
+mod-id = "sRzS8pFG"
+version = "GaWM3lmN"
